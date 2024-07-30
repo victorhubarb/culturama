@@ -12,30 +12,41 @@
 * [Project Developers](#project-developers)
 
 ## Project Description
-Culturama is a page focused on promoting cultural events. With an option to select your location, as well as input for event search, categories page, and schedule, however, none have been developed yet. For now, only the first page has been developed.
+Culturama is a vibrant and interactive website designed to showcase cultural events in São Paulo, Brazil. This platform serves as a comprehensive guide, allowing users to discover, browse, and plan for various cultural activities such as ballet performances, theater shows, and more. Developed using modern web technologies, Culturama offers a visually appealing and user-friendly experience with dynamic content layouts and intuitive navigation.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
 ## Features and Application Demonstration
-- `Feature 1`: Creation of categories combining images and text using flexbox and grid for better organization of the page.
-- `Feature 2`: Responsive page developed for mobile screens, tablets, and larger screens as well.
-- `Feature 3`: Manipulation of image insertion in the project while maintaining their sizes and respecting the desired screen size.
+- **Dynamic Search Bar**: Located at the center of the header for users to search for specific events or categories within the city.
+- **Navigation Menu**: Easy access to key sections of the site including Programming, Categories, and Local Information.
+- **Mosaic of Events**: Four prominently displayed images arranged in a mosaic style right below the header, depicting different cultural activities, enhancing visual engagement.
+- **Categories Section**: Offers a variety of clickable category buttons for filtering events, alongside a side panel showcasing featured events in a carousel format (visual implementation only).
+- **Upcoming Events**: Displays upcoming events in a grid format using cards. Each card includes the event’s image, name, date, city, and a 'View' button which in future implementations will link to more detailed event information.
+- **Plan Your Agenda**: Features cards for future events with a 'Notify Me' button to sign up for notifications (button functionality not yet implemented). This section also includes a 'See More' button intended to expand the list of future events.
+- **Comprehensive Footer**: Contains multiple links organized into categories for easy navigation and additional event discovery. Categories include event types, cities, and other useful resources.
+- **Responsive Design**: Ensures that the website is accessible and visually appealing across all devices, from desktops to smartphones.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Project Access
-Project requirements:
- - Have your preferred IDE installed on your computer.
 
-Access the project hosted [here](https://culturama-kohl-iota.vercel.app) and have fun:
- - Project hosted on Vercel.
- - Easy implementation, [click](https://culturama-kohl-iota.vercel.app) and enter the project, try it out easily and quickly without needing to download the files to your own computer.
+### Prerequisites
+- **Integrated Development Environment (IDE)**: An IDE like Visual Studio Code is recommended for local development, although it's not necessary for accessing the hosted version.
 
-Have the code on your computer:
- - Access the project source code [here](https://github.com/victorhubarb/culturama) or download the project [here](https://github.com/victorhubarb/culturama/archive/refs/heads/main.zip). After one of these steps, and also unzip it on your computer in case of download, open the project in your preferred IDE.
+### Online Access
+- **Live Demo**: Experience Culturama directly through its hosted version on Vercel:
+  - [Visit Culturama](https://culturama-kohl-iota.vercel.app) to explore the site and interact with the features designed to enhance your cultural event planning.
 
-Clone repository with the following steps:
- 1. Open the terminal
- 2. git clone https://github.com/victorhubarb/culturama.git
- 3. Press ENTER to create your clone
+### Local Setup
+- **Access and Download the Source Code**:
+  - The source code is available on GitHub. Visit the [Culturama repository](https://github.com/victorhubarb/culturama) to view the code.
+  - To download the project directly, [click here](https://github.com/victorhubarb/culturama/archive/refs/heads/main.zip). After downloading, unzip the file and open the project in your IDE.
+
+- **Clone the Repository**:
+  ```bash
+  # Open your terminal
+  git clone https://github.com/victorhubarb/culturama.git
+  cd culturama
+  
+  # You are now ready to work on the project locally.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Technologies Used
